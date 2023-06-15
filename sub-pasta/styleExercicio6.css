@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #E3516E;
+}
+.circuloPai{
+    height: 400px;
+    width: 400px;
+    margin: 100px 450px;
+    border-radius: 100%;
+    background-color: #E3516E;
+    overflow: hidden;
+}
+.quadradoFilho1{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin: 0px 0px;
+    background-color: #51B5A9;
+}
+
+.quadradoFilho2{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin: 0px 0px;
+    background-color: #F7F3D7;
+}
+
+.quadradoFilho3{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin: -400px 200px;
+    background-color: #FADE8B;
+}

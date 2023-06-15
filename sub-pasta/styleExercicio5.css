@@ -1,0 +1,88 @@
+/*Versão 1*/
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #0B2429;
+}
+.circulo1{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin: 100px 300px;
+    background-color: #F3AC3C;
+    border-radius: 100%;
+}
+
+.circulo2{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin: 200px 200px;
+    background-color: #998235;
+    border-radius: 100%;
+}
+.quadrado2{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin: 0px 100px;
+    background-color: #998235;
+}
+.circulo3{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin: 300px 100px;
+    background-color: #F3AC3C;
+    border-radius: 100%;
+}
+.quadrado3{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin: 0px 100px;
+    background-color: #F3AC3C;
+}
+
+/*Versão 2*/
+.circulo4{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin: 300px 700px;
+    background-color: #fff;
+    border-radius: 100%;
+}
+
+.circulo5{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin: 200px 800px;
+    background-color: #f00;
+    border-radius: 100%;
+}
+.quadrado5{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin: 100px 0px;
+    background-color: #fff;
+}
+
+.circulo6{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin: 100px 900px;
+    background-color: #fff;
+    border-radius: 100%;
+}
+.quadrado6{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin: 100px 0px;
+    background-color: #f00;
+}

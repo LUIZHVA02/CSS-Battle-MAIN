@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #0B2429;
+}
+
+.folhaPai1{ 
+    position: absolute;
+    height: 256px;
+    width: 192px;
+    margin: 150px 400px;
+    background-color: #1A4341;
+    border-radius: 100%;
+    rotate: 15deg;
+}
+.folhaPai1 .quadradoFilho1{
+    position: relative;
+    height: 115px;
+    width: 91px;
+    margin: -9px 84px;
+    background-color: #1A4341;
+    rotate:-15deg;
+}
+.folhaPai1 .quadradoFilho2{
+    position: relative;
+    height: 114px;
+    width: 91px;
+    margin: 54px 17px;
+    background-color: #1A4341;
+    rotate:-15deg;
+}
+
+.folhaPai2{ 
+    position: absolute;
+    height: 256px;
+    width: 192px;
+    margin: 150px 464px;
+    background-color: #998235;
+    border-radius: 100%;
+    rotate: 15deg;
+}
+.folhaPai2 .quadradoFilho1{
+    position: relative;
+    height: 115px;
+    width: 91px;
+    margin: -9px 84px;
+    background-color: #998235;
+    rotate:-15deg;
+}
+.folhaPai2 .quadradoFilho2{
+    position: relative;
+    height: 114px;
+    width: 91px;
+    margin: 54px 17px;
+    background-color: #998235;
+    rotate:-15deg;
+}
+
+.folhaPai3{ 
+    position: absolute;
+    height: 256px;
+    width: 192px;
+    margin: 150px 528px;
+    background-color: #F3AC3C;
+    border-radius: 100%;
+    rotate: 15deg;
+}
+.folhaPai3 .quadradoFilho1{
+    position: relative;
+    height: 115px;
+    width: 91px;
+    margin: -9px 84px;
+    background-color: #F3AC3C;
+    rotate:-15deg;
+}
+.folhaPai3 .quadradoFilho2{
+    position: relative;
+    height: 114px;
+    width: 91px;
+    margin: 54px 17px;
+    background-color: #F3AC3C;
+    rotate:-15deg;
+}
