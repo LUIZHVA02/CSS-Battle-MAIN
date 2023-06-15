@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #6592CF;
+}
+
+.circuloPai{
+    position: absolute;
+    height: 280px;
+    width: 280px;
+    margin: 200px 550px;
+    background-color: #060F55;
+    border-radius: 100%;
+}
+.retanguloPai1{
+    position: absolute;
+    height: 300px;
+    width: 40px;
+    margin: 325px 670px;
+    background-color: #060F55;
+}
+.circuloFilho1{
+    height: 40px;
+    width: 40px;
+    margin: 280px 00px;
+    background-color: #060F55;
+    border-radius: 100%;
+}
+
+.retanguloPai2{
+    position: absolute;
+    height: 230px;
+    width: 40px;
+    margin: 100px 550px;
+    background-color: #060F55;
+}
+.circuloFilho2{
+    height: 40px;
+    width: 40px;
+    margin: -20px 0px;
+    background-color: #060F55;
+    border-radius: 100%;
+}
+
+.retanguloPai3{
+    position: absolute;
+    height: 230px;
+    width: 40px;
+    margin: 50px 590px;
+    background-color: #6592CF;
+}
+.circuloFilho3{
+    height: 40px;
+    width: 40px;
+    margin: 210px 0px;
+    background-color: #6592CF;
+    border-radius: 100%;
+}
+
+.retanguloPai4{
+    position: absolute;
+    height: 230px;
+    width: 40px;
+    margin: 100px 630px;
+    background-color: #060F55;
+}
+.circuloFilho4{
+    height: 40px;
+    width: 40px;
+    margin: -20px 0px;
+    background-color: #060F55;
+    border-radius: 100%;
+}
+
+.retanguloPai5{
+    position: absolute;
+    height: 230px;
+    width: 40px;
+    margin: 50px 670px;
+    background-color: #6592CF;
+}
+.circuloFilho5{
+    height: 40px;
+    width: 40px;
+    margin: 210px 0px;
+    background-color: #6592CF;
+    border-radius: 100%;
+}
+
+.retanguloPai6{
+    position: absolute;
+    height: 230px;
+    width: 40px;
+    margin: 100px 710px;
+    background-color: #060F55;
+}
+.circuloFilho6{
+    height: 40px;
+    width: 40px;
+    margin: -20px 0px;
+    background-color: #060F55;
+    border-radius: 100%;
+}
+
+.retanguloPai7{
+    position: absolute;
+    height: 230px;
+    width: 40px;
+    margin: 50px 750px;
+    background-color: #6592CF;
+}
+.circuloFilho7{
+    height: 40px;
+    width: 40px;
+    margin: 210px 0px;
+    background-color: #6592CF;
+    border-radius: 100%;
+}
+
+.retanguloPai8{
+    position: absolute;
+    height: 230px;
+    width: 40px;
+    margin: 100px 790px;
+    background-color: #060F55;
+}
+.circuloFilho8{
+    height: 40px;
+    width: 40px;
+    margin: -20px 0px;
+    background-color: #060F55;
+    border-radius: 100%;
+}
