@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #191919;
+}
+
+.circulo1{
+    height: 512px;
+    width: 512px;
+    margin: 30px 400px;
+    border-radius: 100%;
+    background-color: #824B20;
+}
+.circulo2{
+    position: absolute;
+    height: 380px;
+    width: 380px;
+    margin: 66px 66px;
+    border-radius: 100%;
+    background-color: white;
+}
+.circuloPai{
+    position: absolute;
+    height: 392px;
+    width: 392px;
+    margin: 60px;
+    border-radius: 100%;
+    background-color: transparent;
+    border: 1.2rem solid;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: #FFF58F;
+    border-bottom-color: #FFF58F;
+    text-align: center;
+    box-sizing: border-box;
+    rotate: 45deg;
+}
+.circuloFilho1{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    background-color: #FFF58F;
+    border-radius: 100%;
+    margin: 190px -20px;
+
+}
+.circuloFilho2{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    background-color: #FFF58F;
+    border-radius: 100%;
+    margin: 190px 392px;
+}
