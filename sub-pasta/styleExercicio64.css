@@ -13,20 +13,20 @@
 }
 .circulo2{
     position: absolute;
-    height: 380px;
-    width: 380px;
-    margin: 66px 66px;
+    height: 370px;
+    width: 370px;
+    margin: 71px;
     border-radius: 100%;
-    background-color: white;
+    background-color: #E08027;
 }
 .circuloPai{
     position: absolute;
-    height: 392px;
-    width: 392px;
-    margin: 60px;
+    height: 400px;
+    width: 400px;
+    margin: 55px;
     border-radius: 100%;
     background-color: transparent;
-    border: 1.2rem solid;
+    border: 2.5rem solid;
     border-top-color: transparent;
     border-left-color: transparent;
     border-right-color: #FFF58F;
@@ -41,7 +41,7 @@
     width: 40px;
     background-color: #FFF58F;
     border-radius: 100%;
-    margin: 190px -20px;
+    margin: 265px 10px;
 
 }
 .circuloFilho2{
@@ -50,5 +50,5 @@
     width: 40px;
     background-color: #FFF58F;
     border-radius: 100%;
-    margin: 190px 392px;
+    margin: 16px 270px;
 }
