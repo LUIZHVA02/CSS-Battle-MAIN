@@ -1,4 +1,5 @@
 *{
+    box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
@@ -13,60 +14,20 @@ ul, ol, li{
     width: 100vw;
     display: grid;
     grid-template-areas: 
-    "exercicio1 exercicio2 exercicio3 exercicio4"
-    "exercicio5 exercicio6 exercicio7 exercicio8"
-    "exercicio9 exercicio10 exercicio11 exercicio12"
-    "exercicio13 exercicio14 exercicio15 exercicio16"
-    "exercicio17 exercicio18 exercicio19 exercicio20"
-    "exercicio21 exercicio22 exercicio23 exercicio24"
-    "exercicio25 exercicio26 exercicio27 exercicio28"
-    "exercicio29 exercicio30 exercicio31 exercicio32"
-    "exercicio33 exercicio34 exercicio35 exercicio36"
-    "exercicio37 exercicio38 exercicio39 exercicio40"
-    "exercicio41 exercicio42 exercicio43 exercicio44"
-    "exercicio45 exercicio46 exercicio47 exercicio48"
-    "exercicio49 exercicio50 exercicio51 exercicio52"
-    "exercicio53 exercicio54 exercicio55 exercicio56"
-    "exercicio57 exercicio58 exercicio59 exercicio60"
-    "exercicio61 exercicio62 exercicio63 exercicio64"
-    "exercicio65 exercicio66 exercicio67 exercicio68"
-    "exercicio69 exercicio70 exercicio71 exercicio72"
-    "exercicio73 exercicio74 exercicio75 exercicio76"
-    "exercicio77 exercicio78 exercicio79 exercicio80"
-    "exercicio81 exercicio82 exercicio83 exercicio84"
-    "exercicio85 exercicio86 exercicio87 exercicio88"
-    "exercicio89 exercicio90 exercicio91 exercicio92"
-    "exercicio93 exercicio94 exercicio95 exercicio96"
-    "exercicio97 exercicio98 exercicio99 exercicio100"
-    "exercicio154"
-    /*"exercicio101 exercicio102 exercicio103 exercicio104"
-    "exercicio105 exercicio106 exercicio107 exercicio108"
-    "exercicio109 exercicio100 exercicio111 exercicio112"
-    "exercicio113 exercicio114 exercicio115 exercicio116"
-    "exercicio117 exercicio118 exercicio119 exercicio120"
-    "exercicio121 exercicio122 exercicio123 exercicio124"
-    "exercicio125 exercicio126 exercicio127 exercicio128"
-    "exercicio129 exercicio130 exercicio131 exercicio132"
-    "exercicio133 exercicio134 exercicio135 exercicio136"
-    "exercicio137 exercicio138 exercicio139 exercicio140"
-    "exercicio141 exercicio142 exercicio143 exercicio144"
-    "exercicio145 exercicio146 exercicio147 exercicio148"
-    "exercicio149 exercicio150 exercicio151 exercicio152"
-    "exercicio153 exercicio154 exercicio155 exercicio156"
-    "exercicio157 exercicio158 exercicio159 exercicio160"
-    "exercicio161 exercicio162 exercicio163 exercicio164"
-    "exercicio165 exercicio166 exercicio167 exercicio168"
-    "exercicio169 exercicio170 exercicio171 exercicio172"
-    "exercicio173 exercicio174 exercicio175 exercicio176"
-    "exercicio177 exercicio178 exercicio179 exercicio180"
-    "exercicio181 exercicio182 exercicio183 exercicio184"
-    "exercicio185 exercicio186 exercicio187 exercicio188"
-    "exercicio189 exercicio190 exercicio191 exercicio192"
-    "exercicio193 exercicio194 exercicio195 exercicio196"
-    "exercicio197 exercicio198 exercicio199 exercicio200"*/;
+    "exercicio01 exercicio02 exercicio03 exercicio04"
+    "exercicio05 exercicio06 exercicio07 exercicio08"
+    "exercicio9 exercicio10 exercicio154"; 
     justify-content: center;
     padding-block: 16px;
     gap: 16px;
     padding-inline: 32px;
+    font-size: 40px;
+}
+
+.exercicio01a10{
+    display: grid;
+    justify-content: center;
+    padding-block: 16px;
+    gap: 16px;
     font-size: 40px;
 }
